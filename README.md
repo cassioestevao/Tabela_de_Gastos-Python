@@ -6,14 +6,14 @@
 
 A ideia desse API é deixar mais acessível o controle de gastos do dia a dia das pessoas, algo mais funcional.
 
-## Funcionalidades
+## Funcionalidades :
 
 - Cadastro de gastos com descrição, valor e data.
 - Importação automática dos dados para uma planilha.
 
-## Como Usar
+## Como Usar :
 
    ```bash
-    - Preencha os formularios da meneira correta!
-    - Data em formato aa/bb/cccc
-    - Não esqueça de colocar a descrição do produto cadastrado.
+    - Preencha os formularios da meneira correta.
+    - Data em formato dd/mm/aaaa.
+    - Não esqueça de colocar a descrição.
