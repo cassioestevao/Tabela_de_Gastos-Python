@@ -14,6 +14,6 @@ A ideia desse API é deixar mais acessível o controle de gastos do dia a dia da
 ## Como Usar
 
    ```bash
-  1° Preencha os formularios da meneira correta!
-  2° Data em formato aa/bb/cccc
-  3° Não esqueça de colocar a descrição do produto cadastrado.
+    - Preencha os formularios da meneira correta!
+    - Data em formato aa/bb/cccc
+    - Não esqueça de colocar a descrição do produto cadastrado.
