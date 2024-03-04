@@ -13,7 +13,7 @@ A ideia desse API é deixar mais acessível o controle de gastos do dia a dia da
 
 ## Como Usar
 
-1. Clone este repositório:
-
    ```bash
-   git clone https://github.com/seu-usuario/controle-gastos.git
+  1° Preencha os formularios da meneira correta!
+  2° Data em formato aa/bb/cccc
+  3° Não esqueça de colocar o nome do produto.
