@@ -4,7 +4,7 @@ import csv
 from datetime import datetime
 
 
-class CadastroNotaFiscal:
+class Tabeladegastos:
     def __init__(self, root):
         self.root = root
         self.root.title("Tabela de Gastos | Developer | Cássio Estevão")
@@ -60,5 +60,5 @@ class CadastroNotaFiscal:
         valor = self.entry_valor.get()
 
 root = tk.Tk()
-app = CadastroNotaFiscal(root)
+app = Tabeladegastos(root)
 root.mainloop()
